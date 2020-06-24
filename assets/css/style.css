@@ -1,0 +1,8 @@
+label.error {
+	color: red;
+	font-size: small;
+}
+input.error {
+	font-size: 1rem;
+	width: 100%;
+}
